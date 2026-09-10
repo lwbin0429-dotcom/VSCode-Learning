@@ -22,6 +22,7 @@
     ],
 
     "java.project.referencedLibraries": [
-        "lib/mysql-connector-j-26.7.0.jar"
+        "lib/mysql-connector-j-26.7.0.jar",
+        "test-lib\\**\\*.jar"
     ]
 }
